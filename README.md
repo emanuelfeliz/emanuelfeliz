@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Any place
+- 🔭 I’m currently working on NewTech Global
 - 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on React Js
 - 🤔 I’m looking for help with Angular
